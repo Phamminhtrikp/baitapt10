@@ -2,4 +2,8 @@
 <img src="{{ asset($path) }}" />
 
 
-<h4>World</h4>
+<<<<<<< HEAD
+<h4>Hello World</h4>
+=======
+<h4>Hello World</h4>
+>>>>>>> test
